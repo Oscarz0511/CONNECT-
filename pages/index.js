@@ -11,11 +11,14 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Oscar Zhou" />
         <h1 className="description">
           Welcome to CONNECT+<code>pages/index.js</code>
         </h1>
       </main>
+    <p className="description">
+          <code>pages/index.js</code>
+        </p>
 
       <Footer />
     </div>
